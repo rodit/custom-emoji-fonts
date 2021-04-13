@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Android 11",
+		"description": "Default Android 11 emojis",
+		"id": "android-11",
+		"hash": "c9054657",
+		"preview": ""
+	},
+	{
+		"name": "Android 12",
+		"description": "Default Android 12 emojis",
+		"id": "android-12",
+		"hash": "00173800",
+		"preview": ""
+	},
+	{
+		"name": "Android Blobs",
+		"description": "Old Android 5 blob emojis",
+		"id": "android-blobs",
+		"hash": "9407e568",
+		"preview": ""
+	},
+	{
+		"name": "Android Noto Original",
+		"description": "Android default emojis",
+		"id": "android-noto-original",
+		"hash": "46a10dbe",
+		"preview": ""
+	},
+	{
+		"name": "Facebook 5",
+		"description": "Facebook 5 emojis",
+		"id": "facebook-5",
+		"hash": "249d657f",
+		"preview": ""
+	},
+	{
+		"name": "iOS 14",
+		"description": "iOS 14 emojis (including new emojis)",
+		"id": "ios-14",
+		"hash": "fd8da543",
+		"preview": ""
+	},
+	{
+		"name": "iOS 14 (Unofficial)",
+		"description": "Unofficial iOS 14 emojis",
+		"id": "ios-14-unofficial",
+		"hash": "a829703f",
+		"preview": ""
+	},
+	{
+		"name": "JoyPixels 6.5",
+		"description": "JoyPixels 6.5 emojis (formerly AndroidOne)",
+		"id": "joypixels-6.5",
+		"hash": "f8ca61ce",
+		"preview": ""
+	}
+]
